@@ -3,7 +3,6 @@ This project is a basic Selenium WebDriver automation script in Java that tests 
 
 🔧 Technologies Used
 Java
-
 Selenium WebDriver
 
 ChromeDriver
