@@ -57,6 +57,6 @@ Test completed successfully
 ✅ How to Run
 Make sure ChromeDriver is set up and compatible with your Chrome version.
 
-Replace "https://webpage" in the code with the actual webpage URL.
+Following is the URL "https://rahulshettyacademy.com/locatorspractice/"
 
-Run the program using your IDE or from the terminal
+Run the program using your IDE 
